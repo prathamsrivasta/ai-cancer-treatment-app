@@ -1,59 +1,13 @@
 
-
-## 📋 Table of Contents
-
-1. 🤖 [Introduction](#introduction)
-2. 🔋 [Features](#features)
-3. 🏆 [Inspiration](#inspiration)
-4. ⚙️ [Setup and Deployment](#setup-and-deployment)
-5. 🚀 [Usage](#usage)
-6. 🌠 [Gemini AI Integration](#gemini-ai-integration)
-7. 🤝 [Contributing](#contributing)
-8. 📜 [License](#license)
-
-## 🤖 Introduction
+Introduction
 
 AI Cancer Care provides an easy and efficient way to craft personalized cancer care using AI. It interacts with the Gemini AI to analyze and generate detailed treatment plans based on patient data and medical records.
 
-## 🔋 Features
+ Features
 
 - **Personalized Treatment Plans**: Analyzes patient data, medical records, and guidelines to identify gaps in cancer screening and follow-up care, crafting tailored treatment plans for individual patients.
 - **Secure Data Sharing**: Shares sensitive data securely using encryption and cryptographic features, protecting patient information while facilitating necessary data access for healthcare providers.
 
-
-## ⚙️ Setup and Deployment
-
-### Prerequisites
-
-- Node.js and npm installed
-
-### Steps
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/mendsalbert/beat-cancer.git
-   cd beat-cancer
-   ```
-
-2. **Install Dependencies**
-
-   ```bash
-   npm install
-   ```
-
-3. **Setup Environment Variables**
-
-   Create a `.env` file in the root directory with the following content:
-
-   ```plaintext
-   VITE_GEMINI_API_KEY='Gemini api key here'
-   ```
-
-4. **Build the Project**
-
-   ```bash
-   npm run build
    ```
 
 ## 🚀 Usage
